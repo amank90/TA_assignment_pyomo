@@ -40,12 +40,16 @@
 
 
 
+<br>
+
 **Major Installations for Pyomo** 
 
 - conda install -c conda-forge pyomo
 - conda install -c conda-forge glpk
 
 
+
+<br>
 
 **Scripts**:
 
