@@ -18,16 +18,14 @@
 **Courses dataset schema information (./data/MDS_courses_term_1.csv) :-**
 
 - course_number : Course Number
-
 - course_title : Name of the course
-
 - block : The block in which the course belongs 
-
 - primary_lang :  The language in which course is taught
-
 - lab_days : The days on which lab of the course happens
 
-  
+
+
+
 
 **Constraints**:
 
@@ -42,7 +40,7 @@
 
 
 
-Installation 
+**Major Installations for Pyomo** 
 
 - conda install -c conda-forge pyomo
 - conda install -c conda-forge glpk
