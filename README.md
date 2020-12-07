@@ -2,7 +2,7 @@
 
 **Goal** : Match TAs to courses so that our staffing needs are covered in the best way possible.
 
-**Tool** : Pyomo is used for this Linear Programming problem and **GLPK** solver is called for solving.
+**Tool** : Pyomo is used for this Linear Programming problem and **GLPK** solver is called for solving. GLPK is used for solving large-scale linear programming (LP), mixed integer programming (MIP), and other related problems. It is one of the free solvers supported by Pyomo.
 
 **Data** : There are two datasets here. One is capturing the information about the TAs and others dataset contains the information about the courses.
 
