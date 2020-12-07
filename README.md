@@ -2,7 +2,7 @@
 
 **Goal** : Match TAs to courses so that the staffing needs are covered in the best way possible.
 
-**Tool** : **Pyomo** is used for this Linear Programming problem and **GLPK** solver is called for solving. GLPK is used for solving large-scale linear programming (LP), mixed integer programming (MIP), and other related problems. It is one of the free solvers supported by Pyomo.
+**Tool** : **Pyomo** is used for this Linear Programming problem and **GLPK** solver is called for solving it. GLPK is used for solving large-scale linear programming (LP), mixed integer programming (MIP), and other related problems. It is one of the free solvers supported by Pyomo.
 
 **Data** : There are two datasets here. One is capturing the information about the TAs and others dataset contains the information about the courses.
 
@@ -55,3 +55,10 @@
 
 - **TA Assignment.ipynb** - Jupyter Notebook that contains the code along with the detail description. 
 - **OptimizationTA.py** - Run the script to run the whole code.
+
+
+
+**References :**
+
+- https://www.gnu.org/software/glpk/
+- https://www.ima.umn.edu/materials/2017-2018.2/W8.21-25.17/26326/3_PyomoFundamentals.pdf
