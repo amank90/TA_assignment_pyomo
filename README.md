@@ -53,7 +53,7 @@
 
 **Scripts**:
 
-- **TA Assignment.ipynb** - Jupyter Notebook that contains the code along with the detail description. 
+- **TA Assignment.ipynb** - Jupyter Notebook that contains the code along with the detail explanation. 
 - **OptimizationTA.py** - Run the script to run the whole code.
 
 
