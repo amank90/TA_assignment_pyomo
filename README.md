@@ -1,6 +1,6 @@
 # TA_assignment_pyomo
 
-**Goal** : Match TAs to courses so that the staffing needs are covered in the best way possible.
+**Goal** : Match TAs (Technical assistant) to courses so that the staffing needs are covered in the best way possible.
 
 **Tool** : **Pyomo** is used for this Linear Programming problem and **GLPK** solver is called for solving it. GLPK is used for solving large-scale linear programming (LP), mixed integer programming (MIP), and other related problems. It is one of the free open source solvers supported by Pyomo.
 
